@@ -1,0 +1,28 @@
+* {
+    font-family: "Poppins", sans-serif; 
+}
+
+div {
+    border-color: white;
+    border-style: double;
+    
+}
+#logo {
+    width: 100px;
+
+}
+
+a {
+    font-size: 30px;
+    color:#3f87a6;
+    font-weight: bold;
+    font-size: x-large;
+    text-align: center;
+    text-decoration: none;
+    text-transform:uppercase;
+    
+}
+
+nav{
+    display: inline-flex;
+}
